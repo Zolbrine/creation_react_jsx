@@ -1,0 +1,8 @@
+console.log("Bonjour je suis test.extention avant le code html");
+
+App.domContent(<div>
+<h1>Bonjour HTML h1</h1>
+<h2>Bonjour HTML h2</h2>
+</div>);
+
+console.log("Bonjour je suis test.extention après le code html");
